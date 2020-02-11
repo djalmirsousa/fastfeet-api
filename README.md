@@ -1,6 +1,5 @@
 <h1 align="center">
   <img alt="Fastfeet" title="Fastfeet" src=".github/logo.png" width="300px" />
-  FastFeet
 </h1>
 
 <p align="center">An app for barber appointment and scheduling.</p>
