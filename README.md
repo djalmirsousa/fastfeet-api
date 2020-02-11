@@ -2,7 +2,7 @@
   <img alt="Fastfeet" title="Fastfeet" src=".github/logo.png" width="300px" />
 </h1>
 
-<p align="center">An app for barber appointment and scheduling.</p>
+<p align="center">An delivery service application.</p>
 
 
 <p align="center">
